@@ -60,11 +60,11 @@ Top Sales by Subcategory:
 
 📈 Ecommerce Store Sales Forecast – 15 Days
 
-Built using Power BI's forecasting tools
+1 Built using Power BI's forecasting tools
 
-Displays profit forecast for the next 15 days
+2 Displays profit forecast for the next 15 days
 
-Enables short-term planning and business optimization
+3 Enables short-term planning and business optimization
 
 🛠️ Tools & Technologies Used
 
@@ -84,11 +84,11 @@ Month and Quarter slicers for temporal analysis
 
 This dashboard enables:
 
-Real-time tracking of ecommerce metrics
+1 Real-time tracking of ecommerce metrics
 
-Deeper insights into top-performing categories, states, and subcategories
+2 Deeper insights into top-performing categories, states, and subcategories
 
-Strategic decision-making based on recent and forecasted trends
+3 Strategic decision-making based on recent and forecasted trends
 
 🙏 Special Thanks
 
