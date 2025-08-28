@@ -30,13 +30,13 @@ Sales by Category:
 
 📙 Donut Chart
 
-Electronics leads in total sales
+# Electronics leads in total sales
 
 Sales by Payment Mode:
 
 🧾 Pie Chart
 
-Cash on Delivery (COD) has the highest share
+ # Cash on Delivery (COD) has the highest share
 
 Top 5 States by Profit:
 
@@ -48,13 +48,13 @@ Top 5 Subcategories by Profit:
 
 🔻 Funnel Chart
 
-Highlights the top revenue-generating subcategories
+# Highlights the top revenue-generating subcategories
 
 Top Sales by Subcategory:
 
 📊 Vertical Column Chart
 
-Printers and Sarees dominate in total sales
+# Printers and Sarees dominate in total sales
 
 🔮 Forecasting Page
 
