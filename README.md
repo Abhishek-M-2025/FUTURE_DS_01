@@ -92,5 +92,5 @@ This dashboard enables:
 
 🙏 Special Thanks
 
-A special thank you to Future Interns for providing the opportunity to work on a real-world project and gain valuable experience in building business intelligence solutions.
+A special thank you to Future Interns Team for providing the opportunity to work on a real-world project and gain valuable experience in building business intelligence solutions.
 
